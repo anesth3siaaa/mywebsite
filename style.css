@@ -1,0 +1,42 @@
+/*Fonts*/
+@font-face {
+    font-family: smalle;
+    src: url(./fonts/smalle.ttf);
+}
+@font-face {
+    font-family: CHAOS;
+    src: url(./fonts/CHAOS16.otf);
+}
+
+/*Text Styling*/
+    /*Headers*/
+    h1 {
+        font-family: CHAOS;
+        font-size:60px;
+        color:white;
+    }
+    h2 {
+        font-family: CHAOS;
+        font-size:54px;
+        color:white;
+    }
+    h3 {
+        font-family: CHAOS;
+        font-size:49px;
+        color:white;
+    }
+    h4 {
+        font-family: CHAOS;
+        font-size:42px;
+        color:white;
+    }
+    /*Paragraphs*/
+    p {
+        font-family: smalle;
+        color: white;
+    }
+
+/*Body*/
+body {
+    background-color: black;
+}
